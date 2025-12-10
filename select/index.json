@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "エル",
+  "base_artist": "WANIMA",
+  "createdAt": "2025-12-10T03:58:03.642869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エル・タンゴ・エゴイスタ",
+      "artist": "nyanyannya",
+      "has_synced": true,
+      "path": "select/01_エル・タンゴ・エゴイスタ_nyanyannya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エル - Eru",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/02_エル_-_Eru_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エル・タンゴ・エゴイスタ",
+      "artist": "nyanyannya",
+      "has_synced": false,
+      "path": "select/03_エル・タンゴ・エゴイスタ_nyanyannya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "L –エル–",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/04_L_–エル–_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エル・ミラドール〜展望台の唄〜",
+      "artist": "nobodyknows+",
+      "has_synced": false,
+      "path": "select/05_エル・ミラドール〜展望台の唄〜_nobodyknows+.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エル",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/06_エル_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エル・��ラドール 〜展望台の唄〜",
+      "artist": "nobodyknows+",
+      "has_synced": false,
+      "path": "select/07_エル・��ラドール_〜展望台の唄〜_nobodyknows+.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エル・オー・ヴィ・愛・N・G",
+      "artist": "Tahara Toshihiko",
+      "has_synced": false,
+      "path": "select/08_エル・オー・ヴィ・愛・N・G_Tahara_Toshihiko.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エル・ミラドール〜展望台の唄〜",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/09_エル・ミラドール〜展望台の唄〜_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エル・タンゴ・エゴイスタ",
+      "artist": "nyanyannya",
+      "has_synced": true,
+      "path": "select/10_エル・タンゴ・エゴイスタ_nyanyannya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エル・タンゴ・アヴェンタドール (feat. 巡音ルカ)",
+      "artist": "nyanyannya",
+      "has_synced": true,
+      "path": "select/11_エル・タンゴ・アヴェンタドール_(feat._巡音ルカ)_nyanyannya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エル・ドラド feat. 初音ミク",
+      "artist": "Yunosuke",
+      "has_synced": true,
+      "path": "select/12_エル・ドラド_feat._初音ミク_Yunosuke.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エル・ミラドール ～展望台の唄～",
+      "artist": "nobodyknows+",
+      "has_synced": true,
+      "path": "select/13_エル・ミラドール_~展望台の唄~_nobodyknows+.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "L－エル－",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/14_L-エル-_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "7 colors (2015 arena tour L－エル－ LIVE)",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/15_7_colors_(2015_arena_tour_L-エル-_LIVE)_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "チェリーチェリー (2015 arena tour L－エル－ LIVE)",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/16_チェリーチェリー_(2015_arena_tour_L-エル-_LIVE)_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エル",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_エル_WANIMA.txt"
+    }
+  ]
+}
